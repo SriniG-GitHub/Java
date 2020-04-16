@@ -1,0 +1,9 @@
+This is to test java program to read data from a text file.
+Hopefully this test passes.
+This file also contains special characters as below:
+~!@
+/*-+
+24545sdjdbjdsbfkjhsdf4545424444@@@@(25656565)
+Done...!
+
+End Of File..!
