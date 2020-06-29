@@ -4,7 +4,6 @@ public class Array2DEdgeAndDiagonalsSum {
 
 	public static void main(String[] args) {
 
-
 // Take 2-D array and compute sum of all its Boundary values and sum of both forward and backward diagonals.
 //Eg: Input Array = 1 2 3 4  Output : 30 (Boundary : 1+2+3+4+4+4+4+3+2+1+1+1 = 20 && Diagonals : 2+3+2+3=10). Input Array: 1 2 3 Output : 18 (Boundary : 1+2+3+3+3+2+1+1 = 16 && Diagonals :2 =2).
 //		            1 2 3 4                                                                                                1 2 3
