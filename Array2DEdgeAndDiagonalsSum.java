@@ -2,6 +2,7 @@ package coreJavaPrograms;
 
 public class Array2DEdgeAndDiagonalsSum {
 
+	
 	public static void main(String[] args) {
 
 // Take 2-D array and compute sum of all its Boundary values and sum of both forward and backward diagonals.
